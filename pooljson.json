@@ -1,8 +1,8 @@
 {
- "hashrate1m": "80.6K",
- "hashrate5m": "71.9K",
- "hashrate1hr": "57K",
- "hashrate1d": "45.7K",
+ "hashrate1m": "17.3K",
+ "hashrate5m": "41.5K",
+ "hashrate1hr": "54K",
+ "hashrate1d": "45.6K",
  "hashrate7d": "49.8K",
  "lastshare": 1762395664,
  "workers": 1,
@@ -13,10 +13,10 @@
  "worker": [
   {
    "workername": "[redacted]",
-   "hashrate1m": "80.6K",
-   "hashrate5m": "71.9K",
-   "hashrate1hr": "57K",
-   "hashrate1d": "45.7K",
+   "hashrate1m": "17.3K",
+   "hashrate5m": "41.5K",
+   "hashrate1hr": "54K",
+   "hashrate1d": "45.6K",
    "hashrate7d": "49.8K",
    "lastshare": 1762395664,
    "shares": 623832.0,
